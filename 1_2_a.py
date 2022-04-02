@@ -1,4 +1,3 @@
-
 user_lst = []
 user_lst2=[]
 i = 1
@@ -16,7 +15,3 @@ for element in user_lst2:
         i += 1
     if sum_elem % 7 == 0:
         print("число, сумма цифр кратная 7 :" , element)
-i=0
-for i in user_lst
-    user_lst[i] += 17
-    i += 1
