@@ -1,3 +1,4 @@
+#1 задание
 vrem = int(input("Введите секунды:"))
 if vrem >= 0:
     if vrem < 60:
